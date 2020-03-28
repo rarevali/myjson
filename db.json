@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25830" } },
-                                                                                
+"id": "myid",                                                                                
 "features": [
 { "type": "Feature", "properties": { "name": "266_PLANA_ALTA_ESQ_AVDA_MAESTRO_RODRIGO", "number": "266", "address": "Canal de Navarrés - Maestro Rodrigo", "open": "T", "available": "0", "free": "11", "total": "18", "ticket": "T", "updated_at": "16\/03\/2020 19:29:36" }, "geometry": { "type": "Point", "coordinates": [ 723043.372, 4374398.48 ] } },
 { "type": "Feature", "properties": { "name": "269_CAMPAMENTO_81", "number": "269", "address": "Campamento, 81", "open": "T", "available": "0", "free": "4", "total": "15", "ticket": "F", "updated_at": "16\/03\/2020 19:29:36" }, "geometry": { "type": "Point", "coordinates": [ 721301.976, 4375417.006 ] } },
